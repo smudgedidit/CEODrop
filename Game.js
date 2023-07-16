@@ -252,3 +252,4 @@ function restartGame() {
 
 // Start the game
 loadHighScores();
+
